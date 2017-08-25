@@ -1,5 +1,5 @@
 ---
-header-img: img/about-bg.jpg
+header-img: http://res.cloudinary.com/liberalemaenner/image/upload/dpr_auto,q_auto:best/v1503694312/pexels-photo-242359_hotdrw
 ---
 
 Zukunft von Trennungsfamilien: Vorfahrt für gemeinsam Getrennterziehen und die Doppelresidenz!
