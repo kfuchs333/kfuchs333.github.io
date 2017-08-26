@@ -50,12 +50,33 @@ hr.small {
   background: white;
   position: absolute;
   top: 0;
-  max-width: 1400px;
+  width: 1400px;
   margin-left: auto;
   margin-right: auto;
   z-index: 3;
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
+
+.navbar-custom @media only screen and (min-width: 750px) {
+
+     width: 750px;
+}
+
+.navbar-custom @media only screen and (min-width: 1000px) {
+
+     width: 1000px;
+}
+
+.navbar-custom @media only screen and (min-width: 1200px) {
+
+     width: 1200px;
+}
+
+.navbar-custom @media only screen and (min-width: 1400px) {
+
+     width: 1400px;
+}
+
 .navbar-custom .navbar-brand {
   font-weight: 800;
 }
