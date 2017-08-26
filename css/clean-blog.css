@@ -60,9 +60,8 @@ hr.small {
 }
 .navbar-custom .nav li a {
   text-transform: uppercase;
-  font-size: 16px;
-  font-weight: 600;
-  letter-spacing: 1px;
+  font-size: 14px;
+  font-weight: 400;
 }
 @media only screen and (min-width: 768px) {
   .navbar-custom {
@@ -450,4 +449,9 @@ h2.post-title, h2.section-heading {
   .logo-div {
     background-color: grey;
   }
+}
+
+.logo-div {
+  
+    margin-right: 30px !important; 
 }
