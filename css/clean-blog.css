@@ -57,24 +57,32 @@ hr.small {
   font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif;
 }
 
-.navbar-custom @media only screen and (min-width: 750px) {
+@media only screen and (min-width: 750px) { 
+  .navbar-custom {
 
      width: 750px;
+  }
 }
 
-.navbar-custom @media only screen and (min-width: 1000px) {
+@media only screen and (min-width: 750px) { 
+  .navbar-custom {
 
      width: 1000px;
+  }
 }
 
-.navbar-custom @media only screen and (min-width: 1200px) {
+@media only screen and (min-width: 750px) { 
+  .navbar-custom {
 
      width: 1200px;
+  }
 }
 
-.navbar-custom @media only screen and (min-width: 1400px) {
+@media only screen and (min-width: 750px) { 
+  .navbar-custom {
 
      width: 1400px;
+  }
 }
 
 .navbar-custom .navbar-brand {
