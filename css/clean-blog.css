@@ -525,6 +525,13 @@ ul li ul.submenu {
     list-style-type: none;
     display: none;
     padding: 0px;
+    padding-bottom: 5px;
+    -webkit-border-bottom-right-radius: 7px;
+    -webkit-border-bottom-left-radius: 7px;
+    -moz-border-radius-bottomright: 7px;
+    -moz-border-radius-bottomleft: 7px;
+    border-bottom-right-radius: 7px;
+    border-bottom-left-radius: 7px;
 }
 
 ul li:hover ul.submenu {
@@ -536,6 +543,6 @@ ul.submenu li {
    background: #ffffff;
    padding-left: 16px;
    padding-right: 16px;
-   padding-top: 5px;
-   padding-bottom: 5px;
+   padding-top: 2px;
+   padding-bottom: 2px;
 }
