@@ -20,11 +20,15 @@
 		 {% assign sorted_pages = site.pages | sort:"order" %}
                  {% for node in sorted_pages %}
 		    {% if node.title and node.navbar %}
-		        {% unless node.parent %}
-		    	   <li><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
-		        {% endunless %}
-		        
-		        
+		       
+		    	<li><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
+		        <ul class="submenu">
+		        {% for subnode in sorted_pages %}
+		            {% if subnode.parent == node.title %} 
+		                <li><a href="{{ subnode.url | prepend: site.baseurl }}">{{ subnode.title }}</a></li>
+		            {% endif %}
+		        {#endfor}
+		        </ul>
                     {% endif %}
 		 {% endfor %}
             </ul>
