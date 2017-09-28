@@ -23,13 +23,7 @@
 		        {% unless node.parent %}
 		    	   <li><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
 		        {% endunless %}
-		        {% for subnode in sorted_pages %} 
-		            <ul class="submenu">
-		            {% if subnode.parent and subnode.parent == node.title %} 
-		                <li><a href="{{ subnode.url | prepend: site.baseurl }}">{{ subnode.title }}</a></li>
-		            {% endif %}
-		            </ul>
-		        {#endfor}
+		        
 		        
                     {% endif %}
 		 {% endfor %}
