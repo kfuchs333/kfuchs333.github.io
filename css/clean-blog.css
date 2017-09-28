@@ -523,8 +523,6 @@ ul li ul.submenu {
     position: absolute;
     z-index: 99999;
     list-style-type: none;
-    margin: 0;
-    margin-left: -16px; 
     display: none;
 }
 
