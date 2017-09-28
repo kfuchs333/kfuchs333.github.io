@@ -518,15 +518,21 @@ article h1 {
    font-size: 0.9em;
 }
 
-.submenu {
+ul li ul.submenu {
   
     position: absolute;
     z-index: 99999;
     list-style-type: none;
     margin: 0;
-    padding-left: 16px; 
+    margin-left: -16px; 
+    display: none;
 }
 
-.submenu li {
+ul li:hover ul.submenu {
+ 
+  display: inline-block;
+}
+
+ul.submenu li {
    background: #ffffff;
 }
