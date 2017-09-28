@@ -21,14 +21,15 @@
                  {% for node in sorted_pages %}
 		    {% if node.title and node.navbar %}
 		       
-		    	<li><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
+		    	<li><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
 		        <ul class="submenu">
-		        {% for subnode in sorted_pages %}
-		            {% if subnode.parent == node.title %}
-		                <li><a href="{{ subnode.url | prepend: site.baseurl }}">{{ subnode.title }}</a></li>
-                            {% endif %}
-		        {% endfor %}
-		        </ul>
+		           {% for subnode in sorted_pages %}
+		               {% if subnode.parent == node.title %}
+		                   <li><a href="{{ subnode.url | prepend: site.baseurl }}">{{ subnode.title }}</a></li>
+                               {% endif %}
+		           {% endfor %}
+		           </ul>
+		        </li>
                     {% endif %}
 		 {% endfor %}
             </ul>
