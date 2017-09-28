@@ -1,0 +1,55 @@
+# Site settings
+title: "Liberale Männer"
+header-img: img/about-bg.jpg
+email: info@liberale-maenner.org
+copyright_name: 
+description: "Politik von Männern - für die Gesellschaft"
+baseurl: "/"
+url: "http://www.liberale-maenner.org/"
+twitter_username: liberalemaenner
+github_username:  liberale-maenner
+facebook_username:  liberalemaenner
+email_username:  info@liberale-maenner.org
+# Google Analytics
+# To enable google analytics, uncomment below line with a valid Google Tracking ID
+# google_tracking_id:
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+include: ["menu"]
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+excerpt_separator: <!--more-->
+
+gems: [jekyll-paginate, jekyll-feed] 
+
+defaults:
+  -
+    scope:
+      path: "_posts"
+    values:
+      layout: "post"
+      header-img: "img/about-bg.jpg"
+      subtitle:  " "
+      author: "Liberale Männer"
+  -
+    scope:
+      path: "menu"
+    values:
+      layout: "page"
+      header-img: "img/about-bg.jpg"
+      subtitle:  " "
+      author: "Liberale Männer"
+      navbar: "yes"
+      
+  -
+    scope:
+      path: "footernav"
+    values:
+      layout: "page"
+      header-img: "img/about-bg.jpg"
+      subtitle:  " "
+      author: "Liberale Männer"
+      footernavbar: "yes"
