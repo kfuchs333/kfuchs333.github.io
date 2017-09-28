@@ -532,6 +532,7 @@ ul li ul.submenu {
     -moz-border-radius-bottomleft: 7px;
     border-bottom-right-radius: 7px;
     border-bottom-left-radius: 7px;
+    background: #ffffff;
 }
 
 ul li:hover ul.submenu {
@@ -540,7 +541,6 @@ ul li:hover ul.submenu {
 }
 
 ul.submenu li {
-   background: #ffffff;
    padding-left: 16px;
    padding-right: 16px;
    padding-top: 2px;
