@@ -524,6 +524,7 @@ ul li ul.submenu {
     z-index: 99999;
     list-style-type: none;
     display: none;
+    padding: 0px;
 }
 
 ul li:hover ul.submenu {
@@ -533,4 +534,6 @@ ul li:hover ul.submenu {
 
 ul.submenu li {
    background: #ffffff;
+   padding-left: 16px;
+   padding-right: 16px;
 }
