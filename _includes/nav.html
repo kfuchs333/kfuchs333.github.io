@@ -24,10 +24,10 @@
 		    	<li><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a></li>
 		        <ul class="submenu">
 		        {% for subnode in sorted_pages %}
-		            
+		            {% if subnode.parent == node.title %}
 		                <li><a href="{{ subnode.url | prepend: site.baseurl }}">{{ subnode.title }}</a></li>
-
-		        {#endfor}
+                            {% endif %}
+		        {% endfor %}
 		        </ul>
                     {% endif %}
 		 {% endfor %}
