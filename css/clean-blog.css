@@ -536,4 +536,6 @@ ul.submenu li {
    background: #ffffff;
    padding-left: 16px;
    padding-right: 16px;
+   padding-top: 5px;
+   padding-bottom: 5px;
 }
