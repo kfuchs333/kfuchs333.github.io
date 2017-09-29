@@ -22,13 +22,23 @@
 		    {% if node.title and node.navbar %}
 		       {% unless node.parent %}
 		    	  <li><a href="{{ node.url | prepend: site.baseurl }}">{{ node.title }}</a>
-		          <ul class="submenu">
+			  {% assign has_sub = false %}
+				  
+	                  {% for checknode in sorted_pages %}
+			      {% if checknode.parent == node.title %}
+				  {% assign has_sub = true %}
+			      {% endif %}
+		          {% endfor %}
+				  
+		          {% if has_sub == true %}
+		             <ul class="submenu">
 		             {% for subnode in sorted_pages %}
 		                 {% if subnode.parent == node.title %}
 		                     <li><a href="{{ subnode.url | prepend: site.baseurl }}">{{ subnode.title }}</a></li>
                                  {% endif %}
 		             {% endfor %}
 		             </ul>
+			  {% endif %}
 		          </li>
 		        {% endunless %}
                     {% endif %}
