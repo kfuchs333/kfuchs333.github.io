@@ -2,7 +2,6 @@
 title: "Kontakt"
 description: "Anregungen, Wünsche, Kontakt..."
 order: 4
-parent: "Über uns"
 ---
 
 **Sie haben Fragen, Wünsche, Ideen, Anregungen, Kritik?**
