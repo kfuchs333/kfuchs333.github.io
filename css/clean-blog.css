@@ -534,6 +534,9 @@ ul li ul.submenu {
     border-bottom-left-radius: 7px;
     background: #ffffff;
     border-top: 1px solid lightgray;
+    -webkit-box-shadow: 0px 5px 8px 1px rgba(158,158,158,1);
+    -moz-box-shadow: 0px 5px 8px 1px rgba(158,158,158,1);
+    box-shadow: 0px 5px 8px 1px rgba(158,158,158,1);
 }
 
 ul li:hover ul.submenu {
