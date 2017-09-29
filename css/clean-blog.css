@@ -518,7 +518,7 @@ article h1 {
    font-size: 0.9em;
 }
 
-@media only screen and (min-width: 1000px) { 
+@media only screen and (min-width: 768px) { 
    ul li ul.submenu {
   
        position: absolute;
