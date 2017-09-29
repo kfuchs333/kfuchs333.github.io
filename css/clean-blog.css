@@ -518,34 +518,36 @@ article h1 {
    font-size: 0.9em;
 }
 
-ul li ul.submenu {
+@media only screen and (min-width: 1000px) { 
+   ul li ul.submenu {
   
-    position: absolute;
-    z-index: 99999;
-    list-style-type: none;
-    display: none;
-    padding: 0px;
-    padding-bottom: 5px;
-    -webkit-border-bottom-right-radius: 7px;
-    -webkit-border-bottom-left-radius: 7px;
-    -moz-border-radius-bottomright: 7px;
-    -moz-border-radius-bottomleft: 7px;
-    border-bottom-right-radius: 7px;
-    border-bottom-left-radius: 7px;
-    background: #ffffff;
-    border: 1px solid #009ee3;
-    border-top: 0px;
-    opacity: 0.9;
-}
+       position: absolute;
+       z-index: 99999;
+       list-style-type: none;
+       display: none;
+       padding: 0px;
+       padding-bottom: 5px;
+       -webkit-border-bottom-right-radius: 7px;
+       -webkit-border-bottom-left-radius: 7px;
+       -moz-border-radius-bottomright: 7px;
+       -moz-border-radius-bottomleft: 7px;
+       border-bottom-right-radius: 7px;
+       border-bottom-left-radius: 7px;
+       background: #ffffff;
+       border: 1px solid #009ee3;
+       border-top: 0px;
+       opacity: 0.9;
+   }
 
-ul li:hover ul.submenu {
+   ul li:hover ul.submenu {
  
-  display: inline-block;
-}
+     display: inline-block;
+   }
 
-ul.submenu li {
-   padding-left: 16px;
-   padding-right: 16px;
-   padding-top: 2px;
-   padding-bottom: 2px;
+   ul.submenu li {
+      padding-left: 16px;
+      padding-right: 16px;
+      padding-top: 2px;
+      padding-bottom: 2px;
+   }
 }
