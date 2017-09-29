@@ -534,8 +534,7 @@ ul li ul.submenu {
     border-bottom-left-radius: 7px;
     background: #ffffff;
     border: 1px solid #009ee3;
-    border-top: 1px dotted #009ee3;
-    
+    border-top: 0px;
 }
 
 ul li:hover ul.submenu {
