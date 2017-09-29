@@ -535,6 +535,7 @@ ul li ul.submenu {
     background: #ffffff;
     border: 1px solid #009ee3;
     border-top: 0px;
+    opacity: 0.9;
 }
 
 ul li:hover ul.submenu {
