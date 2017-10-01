@@ -15,3 +15,7 @@ Um auf eine tatsächliche Gleichberechtigung von Frauen und Männern, Müttern u
 2. Benachteiligungen von Jungen, Männern und Vätern sind geschlechterpolitisch zu thematisieren und zu beseitigen.
 
 3. Jungen-, Männer- und Väterfeindlichkeit ist entgegen- und auf deren Beseitigung hinzuwirken.
+
+Mehr erfahren Sie in [unserem Kurzprogramm](/menu/kurzprogramm)
+
+[Hier](/menu/mitgliedschaft) können Sie [Mitglied werden](/menu/mitgliedschaft)
