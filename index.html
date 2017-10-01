@@ -8,6 +8,7 @@ header-img: "img/about-bg.jpg"
 {% for post in paginator.posts %}
 {% if post.featured %}
 <div class="post-preview">
+     <a href="{{ post.url | prepend: site.baseurl }}">
         <h2 class="post-title">            {{ post.title }}
         </h2>
         {% if post.subtitle %}
@@ -15,6 +16,7 @@ header-img: "img/about-bg.jpg"
             {{ post.subtitle }}
         </h3>
         {% endif %}
+    </a>
     <div class="post-excerpt">{{ post.excerpt }}</div>
     {% unless post.excerpt == post.content %}
        <p class="post-excerpt"><a class="readmore-link" href="{{ site.baseurl }}{{ post.url }}">Weiterlesen</a></p>
