@@ -5,9 +5,7 @@ email: info@liberale-maenner.org
 copyright_name: 
 description: "Politik von Männern - für die Gesellschaft"
 baseurl: "/"
-url: "http://webmaul.de"
-twitter_username: liberalemaenner
-github_username:  libm-ev
+url: "https://libm-ev.github.io"
 facebook_username:  liberalemaenner
 email_username:  info@liberale-maenner.org
 # Google Analytics
@@ -19,7 +17,7 @@ markdown: kramdown
 highlighter: rouge
 permalink: pretty
 paginate: 5
-include: ["menu"]
+include: ["menu", "footernav"]
 exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
 excerpt_separator: <!--more-->
 
