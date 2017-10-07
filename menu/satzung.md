@@ -399,7 +399,7 @@ Beitragsschulden haben und deren Zustimmung vorliegt. Bei Abwesenheit bedarf die
 Zustimmung der Schriftform. Wählbar für das Amt des Vorsitzenden sind nur
 diejenigen Mitglieder, die zum Zeitpunkt der Wahl auch Mitglied der FDP sind.
 
-###§ 3 Durchführung der Wahl
+### § 3 Durchführung der Wahl
 
 (1) Der Wahlleiter leitet die Wahlen.
 
