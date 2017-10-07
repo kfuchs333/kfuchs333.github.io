@@ -8,4 +8,4 @@ Sie haben die Wahl einer regulären Mitgliedschaft oder einer Fördermitgliedsch
 
 Hier finden Sie das Antragsformular zum Download: <a href="/downloads/Mitgliedsantrag_Liberale_Maenner.pdf" target="_blank">Antrag auf Mitgliedschaft herunterladen</a>
 
-Unsere Satzung finden Sie hier: [liberale-maenner.org/menu/satzung](/menu/satzung)
+Unsere Satzung finden Sie hier: [Zur Satzung](/menu/satzung)
