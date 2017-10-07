@@ -132,13 +132,10 @@ Fördermitglied ist zur Entrichtung eines Mitgliedsbeitrages gemäß der gültig
 Beitragsordnung verpflichtet.
 
 (2) AUFGABEN UND STELLUNG DER LANDESVEREINIGUNGEN
-<div style="margin-left: 1em;">
 
 (a) Die Mitgliedsbeiträge werden von den Landesvereinigungen nach eigenen Regeln erhoben. Die Landesvereinigungen führen einen Teil der Mitgliedsbeiträge an die Bundesvereinigung ab; im Übrigen sind sie finanziell unabhängig und verwalten ihre Finanzen selbst.
 
 (b) Gehört ein Mitglied oder Fördermitglied keiner Landesvereinigung an, ist sie zur Beitragsabführung an die Bundesvereinigung verpflichtet.
-
-</div>
 
 (3) BUNDESBEITRAGSORDNUNG. In der Bundesbeitragsordnung werden die
 Mindestmitgliedsbeiträge sowie Höhe und Fälligkeit der davon durch die
