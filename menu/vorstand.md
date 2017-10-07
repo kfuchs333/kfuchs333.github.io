@@ -16,4 +16,4 @@ order: 3
 
 **Ludwig Faltenbacher**, Schatzmeister
 
-**Torsten H. Sommer MA**, Schriftführer, Protokollführer
+**Torsten H. Sommer MA**, Schriftführer, Protokollführer, Pressesprecher
