@@ -262,7 +262,6 @@ Der Verein hat zwei Rechnungsprüfer, die von der Mitgliederversammlung für die
 Dauer von zwei Jahren gewählt werden und dem Bundesvorstand nicht angehören
 dürfen. Sie prüfen die Jahresabrechnung des Vorstandes mindestens einmal jährlich
 und nehmen zu seiner Entlastung Stellung. 
-Satzung der Bundesvereinigung LIBERALE MÄNNER, beschlossen am Samstag, den 5. August 2017 in Nürnberg Seite 7 von 11
 
 ### § 10 Landesvereinigungen
 
@@ -302,7 +301,6 @@ von Jungen gegenüber Mädchen in der Bildung.
 ### § 13 Ergänzende Regelungen
 Für die in dieser Satzung nicht geregelten Sachverhalte gilt sinngemäß die Satzung
 des Bundesverbandes der FDP, inklusive Geschäftsordnung. 
-Satzung der Bundesvereinigung LIBERALE MÄNNER, beschlossen am Samstag, den 5. August 2017 in Nürnberg Seite 8 von 11
 
 ### § 14 Inkrafttreten
 Diese Satzung tritt am Tage nach ihrer Verabschiedung in Kraft. Sie wurde am 05.
@@ -339,7 +337,6 @@ Zählkommission unterstützt.
 
 (3) Durch Beschluss der Mitgliederversammlung kann die vom Vorstand festgelegte
 Tagesordnung geändert oder ergänzt werden. 
-Satzung der Bundesvereinigung LIBERALE MÄNNER, beschlossen am Samstag, den 5. August 2017 in Nürnberg Seite 9 von 11
 
 ### § 3 Protokollführung
 
