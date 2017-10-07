@@ -129,18 +129,16 @@ konkurrierenden politischen Organisation.
 (1) BEITRAGSPFLICHT. Die Bundesvereinigung Liberale Männer deckt ihre
 Aufwendungen durch Mitgliedsbeiträge und sonstige Einnahmen. Jedes Mitglied und
 Fördermitglied ist zur Entrichtung eines Mitgliedsbeitrages gemäß der gültigen 
-Satzung der Bundesvereinigung LIBERALE MÄNNER, beschlossen am Samstag, den 5. August 2017 in Nürnberg Seite 4 von 11
 Beitragsordnung verpflichtet.
 
 (2) AUFGABEN UND STELLUNG DER LANDESVEREINIGUNGEN
+<div style="margin-left: 1em;">
 
-(a) Die Mitgliedsbeiträge werden von den Landesvereinigungen nach
-eigenen Regeln erhoben. Die Landesvereinigungen führen einen Teil der
-Mitgliedsbeiträge an die Bundesvereinigung ab; im Übrigen sind sie
-finanziell unabhängig und verwalten ihre Finanzen selbst.
+(a) Die Mitgliedsbeiträge werden von den Landesvereinigungen nach eigenen Regeln erhoben. Die Landesvereinigungen führen einen Teil der Mitgliedsbeiträge an die Bundesvereinigung ab; im Übrigen sind sie finanziell unabhängig und verwalten ihre Finanzen selbst.
 
-(b) Gehört ein Mitglied oder Fördermitglied keiner Landesvereinigung an,
-ist sie zur Beitragsabführung an die Bundesvereinigung verpflichtet.
+(b) Gehört ein Mitglied oder Fördermitglied keiner Landesvereinigung an, ist sie zur Beitragsabführung an die Bundesvereinigung verpflichtet.
+
+</div>
 
 (3) BUNDESBEITRAGSORDNUNG. In der Bundesbeitragsordnung werden die
 Mindestmitgliedsbeiträge sowie Höhe und Fälligkeit der davon durch die
