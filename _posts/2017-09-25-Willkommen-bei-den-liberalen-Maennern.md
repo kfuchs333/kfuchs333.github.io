@@ -5,7 +5,7 @@ featured: "yes"
 order: 1
 ---
 
-Die Bundesvereinigung Liberale Männer sind ein der FDP nahestehender Verein.
+Die Bundesvereinigung Liberale Männer ist ein der FDP nahestehender Verein.
 Wir stehen für eine ganzheitliche, moderne Geschlechterpolitik, wonach es tatsächliche Gleichberechtigung nur geben kann, wenn die berechtigten Anliegen beider Geschlechter berücksichtigt sowie Benachteiligungen thematisiert und beseitigt werden.
 
 Um auf eine tatsächliche Gleichberechtigung von Frauen und Männern, Müttern und Vätern, Mädchen und Jungen hinzuarbeiten, wollen die Liberalen Männer die im Folgenden genannten Ziele erreichen:
