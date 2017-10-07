@@ -3,8 +3,19 @@ title: "Kurzprogramm"
 description: "Was wir wollen..."
 order: 1
 ---
+## Kurzprogramm der Bundesvereinigung LIBERALE MÄNNER
 
-## Die 12 Punkte des Kurzprogramms der Bundesvereinigung LIBERALE MÄNNER
+### Präambel des Kurzprogramms der Bundesvereinigung LIBERALE MÄNNER
+
+Die Freie Demokratische Partei (FDP) ist eine Partei, die sich für Freiheit, Demokratie und Gleichberechtigung einsetzt. Letzteres bedeutet, dass die Interessen von Frauen und Männern gleichermaßen berücksichtigt werden. Derzeit existiert ein Verein, die Liberalen Frauen, der politische Interessen für Frauen vertritt. Jedoch gab es bisher bedauerlicherweise weder bei der FDP noch bei einer der im Bundestag vertretenen Parteien eine Gruppe, welche die Interessen von Männern vertritt.
+Die Bundesvereinigung LIBERALE MÄNNER steht für eine ganzheitliche, moderne Geschlechterpolitik, wonach es tatsächliche Gleichberechtigung nur geben kann, wenn die berechtigten Anliegen beider Geschlechter berücksichtigt sowie Benachteiligungen thematisiert und beseitigt werden.
+Auch um auf die tatsächliche Gleichberechtigung von Frauen und Männern, Müttern und Vätern, Mädchen und Jungen hinzuarbeiten, wollen die Mitglieder der Bundesvereinigung LIBERALE MÄNNER die im Folgenden genannten Ziele erreichen:
+A) Konsequente Umsetzung des Artikels 3 des Grundgesetzes der Bundesrepublik Deutschland und des Artikels 2 der Allgemeinen Erklärung der Menschenrechte der Vereinten Nationen.
+B) Benachteiligungen von Jungen, Männern und Vätern sind geschlechterpolitisch zu thematisieren und auf deren Beseitigung ist hinzuwirken.
+C) Jungen-, Männer- und Väterfeindlichkeit ist entgegen- und auf deren Beseitigung hinzuwirken.
+
+
+### Die 12 Punkte des Kurzprogramms der Bundesvereinigung LIBERALE MÄNNER
 
 **1. Gleichberechtigung statt nur Frauenrechte**
 Art. 3 Abs. 3 des Grundgesetzes muss konsequent angewandt werden. Menschenrechte müssen sowohl für Frauen wie für Männer gelten.
