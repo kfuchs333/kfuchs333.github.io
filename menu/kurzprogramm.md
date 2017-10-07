@@ -10,8 +10,11 @@ order: 1
 Die Freie Demokratische Partei (FDP) ist eine Partei, die sich für Freiheit, Demokratie und Gleichberechtigung einsetzt. Letzteres bedeutet, dass die Interessen von Frauen und Männern gleichermaßen berücksichtigt werden. Derzeit existiert ein Verein, die Liberalen Frauen, der politische Interessen für Frauen vertritt. Jedoch gab es bisher bedauerlicherweise weder bei der FDP noch bei einer der im Bundestag vertretenen Parteien eine Gruppe, welche die Interessen von Männern vertritt.
 Die Bundesvereinigung LIBERALE MÄNNER steht für eine ganzheitliche, moderne Geschlechterpolitik, wonach es tatsächliche Gleichberechtigung nur geben kann, wenn die berechtigten Anliegen beider Geschlechter berücksichtigt sowie Benachteiligungen thematisiert und beseitigt werden.
 Auch um auf die tatsächliche Gleichberechtigung von Frauen und Männern, Müttern und Vätern, Mädchen und Jungen hinzuarbeiten, wollen die Mitglieder der Bundesvereinigung LIBERALE MÄNNER die im Folgenden genannten Ziele erreichen:
+
 A) Konsequente Umsetzung des Artikels 3 des Grundgesetzes der Bundesrepublik Deutschland und des Artikels 2 der Allgemeinen Erklärung der Menschenrechte der Vereinten Nationen.
+
 B) Benachteiligungen von Jungen, Männern und Vätern sind geschlechterpolitisch zu thematisieren und auf deren Beseitigung ist hinzuwirken.
+
 C) Jungen-, Männer- und Väterfeindlichkeit ist entgegen- und auf deren Beseitigung hinzuwirken.
 
 
