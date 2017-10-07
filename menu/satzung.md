@@ -7,8 +7,7 @@ order: 5
 
 ## Satzung
 
-**mit Geschäftsordnung, Wahlordnung und Beitragsordnung der Bundesvereinigung LIBERALE MÄNNER in der Fassung des Beschlusses
-der Gründungsversammlung am 05. August 2017 in Nürnberg
+**mit Geschäftsordnung, Wahlordnung und Beitragsordnung der Bundesvereinigung LIBERALE MÄNNER in der Fassung des Beschlusses der Gründungsversammlung am 05. August 2017 in Nürnberg**
 
 ### § 1 Name, Sitz
 
