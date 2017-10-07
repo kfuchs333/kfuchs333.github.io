@@ -1,5 +1,6 @@
 ---
 news: "yes"
+title: "Fragen-an-Schulz-und-Merkel"
 ---
 
 Fragen an Angela Merkel und Martin Schulz:
