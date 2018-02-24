@@ -8,7 +8,8 @@ order: 4
 
 Nehmen Sie Kontakt zu uns auf entweder per Mail oder postalisch:
 
-Bundesvereinigung Liberale Männer i.G.<br />
-Postfach 100 469<br />
-10564 Berlin<br />
+Bundesvereinigung<br />
+LIBERALE MÄNNER<br />
+Postfach 450108<br />
+90212 Nürnberg<br />
 <a href="mailto:liberale-maenner@freenet.de">liberale-maenner@freenet.de</a>
