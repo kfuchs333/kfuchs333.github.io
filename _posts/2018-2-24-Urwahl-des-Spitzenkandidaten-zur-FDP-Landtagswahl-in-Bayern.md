@@ -1,5 +1,5 @@
 ---
-news: "no"
+news: "yes"
 title: "Urwahl des Spitzenkandidaten zur FDP-Landtagswahl in Bayern"
 ---
 
