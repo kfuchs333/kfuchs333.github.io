@@ -28,4 +28,4 @@ Der Nürnberger Stammtisch LIBERALER MÄNNER trifft sich immer am Dienstag in de
 - 13. November
 - 11. Dezember
  
-Haben Sie Fragen zum Nürnberger Stammtisch LIBERALER MÄNNER? Bitte schreiben Sie an liberale-maenner@t-online.de
+Haben Sie Fragen zum Nürnberger Stammtisch LIBERALER MÄNNER? Bitte schreiben Sie an <a href="mailto:liberale-maenner@t-online.de">liberale-maenner@t-online.de</a>
