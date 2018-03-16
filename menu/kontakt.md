@@ -17,6 +17,15 @@ Postfach 450108<br />
 ## Stammtisch
 Der Nürnberger Stammtisch LIBERALER MÄNNER trifft sich immer am Dienstag in der zweiten geraden Kalenderwoche eines jeden Monats um 19:00 Uhr in Finyas Taverne, Weißgerbergasse 18, 90403 Nürnberg. Interessenten sind herzlich willkommen! Der Besuch des Stammtisches ist völlig unverbindlich! Hier die Termine für 2018:
  
-20. März, 17. April, 15. Mai, 12. Juni, 10. Juli, 21. August, 18. September, 16. Oktober, 13. November und 11. Dezember
+- 20. März
+- 17. April
+- 15. Mai
+- 12. Juni
+- 10. Juli
+- 21. August
+- 18. September
+- 16. Oktober
+- 13. November
+- 11. Dezember
  
 Haben Sie Fragen zum Nürnberger Stammtisch LIBERALER MÄNNER? Bitte schreiben Sie an liberale-maenner@t-online.de
