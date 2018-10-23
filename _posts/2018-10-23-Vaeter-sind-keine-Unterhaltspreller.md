@@ -1,6 +1,5 @@
 ---
 news: "yes"
-featured: "yes"
 title: "Väter sind keine Unterhaltspreller"
 ---
 
