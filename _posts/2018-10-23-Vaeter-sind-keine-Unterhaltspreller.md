@@ -1,11 +1,12 @@
 ---
 news: "yes"
+featured: "yes"
 title: "Väter sind keine Unterhaltspreller"
 ---
 
 <h3>Väterverbände weisen auf prekäre Lage vieler Väter hin</h3>
 <p>Pressemitteilung der Interessengemeinschaft Jungen Männer Väter (IG-JMV)</p>
-<p><a href="index.php?option=com_content&amp;view=article&amp;id=1094:vaeter-sind-keine-unterhaltspreller&amp;catid=25"><img style="max-width: 100%" src="https://www.cuncti.net/images/picture-2600hhzzgtr56.jpg" alt="picture 2600hhzzgtr56" /></a></p>
+<p><img style="max-width: 100%" src="https://www.cuncti.net/images/picture-2600hhzzgtr56.jpg" alt="picture 2600hhzzgtr56" /></p>
 <p>Berlin. "Väter sind keine Unterhaltspreller!" Mit dieser Feststellung wendet sich Gerd Riedmeier, Sprecher der <a href="https://www.ig-jungen-maenner-vaeter.de/">Interessengemeinschaft Jungen, Männer und Väter (IG-JMV)</a> entschieden gegen die pauschalen Unterstellungen aus der Politik.
 </p>
 <!--more-->
