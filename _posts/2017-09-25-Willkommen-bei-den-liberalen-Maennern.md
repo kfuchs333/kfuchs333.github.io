@@ -1,7 +1,6 @@
 ---
 title: Willkommen bei den Liberalen Männern
 subtitle: Für eine ganzheitliche, moderne Geschlechterpolitik
-featured: "yes"
 ---
 
 Die Bundesvereinigung Liberale Männer ist ein der FDP nahestehender Verein.
