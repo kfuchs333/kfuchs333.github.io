@@ -1,7 +1,7 @@
 ---
 news: "yes"
 title: "Väter sind keine Unterhaltspreller"
-subtitle: "Väterverbände weisen auf prekäre Lage vieler Väter hin"
+subtitle: "Väterverbände weisen auf die prekäre Lage vieler Väter hin"
 ---
 
 <p>Pressemitteilung der Interessengemeinschaft Jungen Männer Väter (IG-JMV) </p>
